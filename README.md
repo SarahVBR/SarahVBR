@@ -27,7 +27,6 @@ Confira meus projetos no repositório de portfólio clicando no link abaixo:
 
 🔗 [Ver todos os projetos no Portfólio](https://github.com/SarahVBR/Portf-lio-)
 
-⚠️ Para ver os detalhes dos projetos (se for preciso) clique em "README" dentro da pasta do projeto.
 
 ---
 
